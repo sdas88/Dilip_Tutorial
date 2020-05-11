@@ -11,7 +11,7 @@ public class Bank_Details {
 	
 	
 	public Bank_Details(double deposit, String Typeofaccount) {
-	//parameter
+	
 		this.AccountType= Typeofaccount;
 		this.Balance=deposit;
 	
